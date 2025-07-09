@@ -26,6 +26,14 @@ Build a real-time, scalable system to:
 ![Docker Compose](https://img.shields.io/badge/Docker--Compose-Orchestration-blue)
 ![Swagger](https://img.shields.io/badge/Swagger-Enabled-yellowgreen)
 
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" title="apachekafka" **alt="apachekafka" width="60" height="60"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="spring" **alt="spring" width="60" height="60"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original-wordmark.svg" title="swagger"  alt="swagger" width="60" height="60"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" **alt="Docker" width="60" height="60"/> 
+     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" **alt="Java" width="60" height="60"/>
+</div>   
+
 ---
 
 ## 🚀 Why Kafka?
