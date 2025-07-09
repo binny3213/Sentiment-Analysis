@@ -74,13 +74,6 @@ Using `Mono` and `Flux`, the API exposes real-time streams of sentiment data in 
 
 ---
 
-## 🧠 Sentiment Analysis
-
-The system uses **Stanford CoreNLP** to compute a sentiment score for each article sentence.
-
-Scores range from **-1 (very negative)** to **+1 (very positive)**, and average scores are calculated per time window.
-
----
 
 ## 🧰 Project Structure
 
